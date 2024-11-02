@@ -1,6 +1,6 @@
 # Tiny Shop Sales [SQL Case Study]
 
-![image](https://github.com/user-attachments/assets/1ff6c81d-892c-4e79-802c-9c0438a75571
+![image](https://github.com/user-attachments/assets/1ff6c81d-892c-4e79-802c-9c0438a75571)
 
 Este estudio de caso se centra en utilizar MySQL, para analizar datos de ventas de Tiny Shop. Aprovechando diversas funcionalidades de SQL como agregaciones, declaraciones CASE WHEN, window functions, joins, date-time functions, y Common Table Expressions (CTEs), nuestro objetivo es extraer información valiosa y responder preguntas clave relacionadas con los precios de los productos, los pedidos de clientes, los ingresos, etc.
 
